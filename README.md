@@ -1,2 +1,2 @@
-# fiks-dhis2-endringslogg
-Endringslogg for fiks-dhis2
+# Fiks DHIS2 endringslogg
+Dette repoet inneholder endringslogg for DHIS2 
